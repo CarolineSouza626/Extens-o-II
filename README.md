@@ -26,6 +26,3 @@ O estudo compara duas abordagens:
 - Maior engajamento dos alunos.
 - Melhor retenção dos conteúdos de lógica de programação.
 - Desenvolvimento de habilidades criativas e de resolução de problemas.
-
-## 📄 Licença
-Este projeto é parte de um Trabalho de Conclusão de Curso e não possui fins comerciais.
