@@ -1,7 +1,7 @@
 # Jogos Educacionais e Ensino Tradicional: Um Estudo Comparativo no Ensino de Lógica de Programação
 
 ## 📚 Descrição
-Para estudantes que desejam aprender lógica de programação de forma prática e envolvente, e para professores que buscam estratégias inovadoras de ensino de logica de progrmação, o projeto Jogos Educacionais e Ensino Tradicional: Um Estudo Comparativo no Ensino de Lógica de Programação é uma proposta educacional que ensina conceitos de programação por meio da criação de jogos no GDevelop. Diferente dos métodos tradicionais baseados apenas em teoria, nossa abordagem promove participação ativa, estimula a criatividade e desenvolve a capacidade de resolução de problemas, resultando em maior engajamento e melhor retenção do conhecimento.
+Para professores que buscam estratégias inovadoras de ensino de logica de progrmação, o projeto Jogos Educacionais e Ensino Tradicional: Um Estudo Comparativo no Ensino de Lógica de Programação é uma proposta educacional que ensina conceitos de programação por meio da criação de jogos no GDevelop. Diferente dos métodos tradicionais baseados apenas em teoria, nossa abordagem promove participação ativa, estimula a criatividade e desenvolve a capacidade de resolução de problemas, resultando em maior engajamento e melhor retenção do conhecimento.
 
 ## 🎯 Objetivos
 - Ensinar lógica de programação de forma prática e divertida.
